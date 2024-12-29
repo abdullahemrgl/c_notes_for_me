@@ -1,2 +1,2 @@
-# c_notes_for_me
+# C Notes For Me
 C Programming Language
